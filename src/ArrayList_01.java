@@ -34,6 +34,11 @@ public class ArrayList_01 {
                 }
             }
         }
+
+       // 你好
+
+
+
 //        输出结果
         for (int i = 0; i < k.length; i++) {
             System.out.println(k[i]);
